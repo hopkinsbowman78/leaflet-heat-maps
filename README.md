@@ -8,9 +8,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Table of Contents
 + Module 15 Leaflet (Original Challenge Requirements)
-+ static folder (js folder, app.js)
-+ index.html
-+ samples.json
++ leaflet_part_1
 
 ## Documentation  
 + Leaflet Documentation (https://leafletjs.com/reference.html)
